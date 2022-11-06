@@ -6,4 +6,4 @@
 - You can use below command to apply spotless in mvn , if not used after code change then during compilation phase it build will fails.
 - `mvn spoless:apply`
 
-## [Detail Configuration for various build tools (like gradle,SBT) and for different languages can be found here].(https://github.com/diffplug/spotless)
+## Detail Configuration for various build tools (like gradle,SBT) and for different languages can be found here (https://github.com/diffplug/spotless)
